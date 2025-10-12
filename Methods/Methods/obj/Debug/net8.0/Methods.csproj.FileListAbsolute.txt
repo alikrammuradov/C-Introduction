@@ -1,0 +1,14 @@
+F:\C#Introduction\Methods\Methods\bin\Debug\net8.0\Methods.exe
+F:\C#Introduction\Methods\Methods\bin\Debug\net8.0\Methods.deps.json
+F:\C#Introduction\Methods\Methods\bin\Debug\net8.0\Methods.runtimeconfig.json
+F:\C#Introduction\Methods\Methods\bin\Debug\net8.0\Methods.dll
+F:\C#Introduction\Methods\Methods\bin\Debug\net8.0\Methods.pdb
+F:\C#Introduction\Methods\Methods\obj\Debug\net8.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#Introduction\Methods\Methods\obj\Debug\net8.0\Methods.AssemblyInfoInputs.cache
+F:\C#Introduction\Methods\Methods\obj\Debug\net8.0\Methods.AssemblyInfo.cs
+F:\C#Introduction\Methods\Methods\obj\Debug\net8.0\Methods.csproj.CoreCompileInputs.cache
+F:\C#Introduction\Methods\Methods\obj\Debug\net8.0\Methods.dll
+F:\C#Introduction\Methods\Methods\obj\Debug\net8.0\refint\Methods.dll
+F:\C#Introduction\Methods\Methods\obj\Debug\net8.0\Methods.pdb
+F:\C#Introduction\Methods\Methods\obj\Debug\net8.0\Methods.genruntimeconfig.cache
+F:\C#Introduction\Methods\Methods\obj\Debug\net8.0\ref\Methods.dll
