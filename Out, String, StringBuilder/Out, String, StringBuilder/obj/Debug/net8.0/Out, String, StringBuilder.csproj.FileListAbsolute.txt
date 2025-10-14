@@ -1,0 +1,15 @@
+F:\C#Introduction\Out, String, StringBuilder\Out, String, StringBuilder\bin\Debug\net8.0\Out, String, StringBuilder.exe
+F:\C#Introduction\Out, String, StringBuilder\Out, String, StringBuilder\bin\Debug\net8.0\Out, String, StringBuilder.deps.json
+F:\C#Introduction\Out, String, StringBuilder\Out, String, StringBuilder\bin\Debug\net8.0\Out, String, StringBuilder.runtimeconfig.json
+F:\C#Introduction\Out, String, StringBuilder\Out, String, StringBuilder\bin\Debug\net8.0\Out, String, StringBuilder.dll
+F:\C#Introduction\Out, String, StringBuilder\Out, String, StringBuilder\bin\Debug\net8.0\Out, String, StringBuilder.pdb
+F:\C#Introduction\Out, String, StringBuilder\Out, String, StringBuilder\obj\Debug\net8.0\Out, String, StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#Introduction\Out, String, StringBuilder\Out, String, StringBuilder\obj\Debug\net8.0\Out, String, StringBuilder.AssemblyInfoInputs.cache
+F:\C#Introduction\Out, String, StringBuilder\Out, String, StringBuilder\obj\Debug\net8.0\Out, String, StringBuilder.AssemblyInfo.cs
+F:\C#Introduction\Out, String, StringBuilder\Out, String, StringBuilder\obj\Debug\net8.0\Out, String, StringBuilder.csproj.CoreCompileInputs.cache
+F:\C#Introduction\Out, String, StringBuilder\Out, String, StringBuilder\obj\Debug\net8.0\Out, String, StringBuilder.sourcelink.json
+F:\C#Introduction\Out, String, StringBuilder\Out, String, StringBuilder\obj\Debug\net8.0\Out, String, StringBuilder.dll
+F:\C#Introduction\Out, String, StringBuilder\Out, String, StringBuilder\obj\Debug\net8.0\refint\Out, String, StringBuilder.dll
+F:\C#Introduction\Out, String, StringBuilder\Out, String, StringBuilder\obj\Debug\net8.0\Out, String, StringBuilder.pdb
+F:\C#Introduction\Out, String, StringBuilder\Out, String, StringBuilder\obj\Debug\net8.0\Out, String, StringBuilder.genruntimeconfig.cache
+F:\C#Introduction\Out, String, StringBuilder\Out, String, StringBuilder\obj\Debug\net8.0\ref\Out, String, StringBuilder.dll
