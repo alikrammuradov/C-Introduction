@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C#Introduction\\Array, OOP, Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E3A53A-525D-4A9A-AC9B-6C152A6AD711}|Array, OOP, Class\\Array, OOP, Class.csproj|f:\\c#introduction\\array, oop, class\\array, oop, class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E3A53A-525D-4A9A-AC9B-6C152A6AD711}|Array, OOP, Class\\Array, OOP, Class.csproj|solutionrelative:array, oop, class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C#Introduction\\Array, OOP, Class\\Array, OOP, Class\\Program.cs",
+              "RelativeDocumentMoniker": "Array, OOP, Class\\Program.cs",
+              "ToolTip": "F:\\C#Introduction\\Array, OOP, Class\\Array, OOP, Class\\Program.cs",
+              "RelativeToolTip": "Array, OOP, Class\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T01:58:01.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
