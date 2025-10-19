@@ -12,3 +12,4 @@ F:\C#Introduction\Methods\Methods\obj\Debug\net8.0\refint\Methods.dll
 F:\C#Introduction\Methods\Methods\obj\Debug\net8.0\Methods.pdb
 F:\C#Introduction\Methods\Methods\obj\Debug\net8.0\Methods.genruntimeconfig.cache
 F:\C#Introduction\Methods\Methods\obj\Debug\net8.0\ref\Methods.dll
+F:\C#Introduction\Methods\Methods\obj\Debug\net8.0\Methods.sourcelink.json

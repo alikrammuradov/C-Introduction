@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C#Introduction\\Polymorphism,Abstraction, Interface, Namespace, DLL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C962D25-5B4E-4C48-902B-BC77234EBADD}|Polymorphism,Abstraction, Interface, Namespace, DLL\\Polymorphism,Abstraction, Interface, Namespace, DLL.csproj|f:\\c#introduction\\polymorphism,abstraction, interface, namespace, dll\\polymorphism,abstraction, interface, namespace, dll\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C962D25-5B4E-4C48-902B-BC77234EBADD}|Polymorphism,Abstraction, Interface, Namespace, DLL\\Polymorphism,Abstraction, Interface, Namespace, DLL.csproj|solutionrelative:polymorphism,abstraction, interface, namespace, dll\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C962D25-5B4E-4C48-902B-BC77234EBADD}|Polymorphism,Abstraction, Interface, Namespace, DLL\\Polymorphism,Abstraction, Interface, Namespace, DLL.csproj|f:\\c#introduction\\polymorphism,abstraction, interface, namespace, dll\\polymorphism,abstraction, interface, namespace, dll\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C962D25-5B4E-4C48-902B-BC77234EBADD}|Polymorphism,Abstraction, Interface, Namespace, DLL\\Polymorphism,Abstraction, Interface, Namespace, DLL.csproj|solutionrelative:polymorphism,abstraction, interface, namespace, dll\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C962D25-5B4E-4C48-902B-BC77234EBADD}|Polymorphism,Abstraction, Interface, Namespace, DLL\\Polymorphism,Abstraction, Interface, Namespace, DLL.csproj|f:\\c#introduction\\polymorphism,abstraction, interface, namespace, dll\\polymorphism,abstraction, interface, namespace, dll\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C962D25-5B4E-4C48-902B-BC77234EBADD}|Polymorphism,Abstraction, Interface, Namespace, DLL\\Polymorphism,Abstraction, Interface, Namespace, DLL.csproj|solutionrelative:polymorphism,abstraction, interface, namespace, dll\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C962D25-5B4E-4C48-902B-BC77234EBADD}|Polymorphism,Abstraction, Interface, Namespace, DLL\\Polymorphism,Abstraction, Interface, Namespace, DLL.csproj|f:\\c#introduction\\polymorphism,abstraction, interface, namespace, dll\\polymorphism,abstraction, interface, namespace, dll\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C962D25-5B4E-4C48-902B-BC77234EBADD}|Polymorphism,Abstraction, Interface, Namespace, DLL\\Polymorphism,Abstraction, Interface, Namespace, DLL.csproj|solutionrelative:polymorphism,abstraction, interface, namespace, dll\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C962D25-5B4E-4C48-902B-BC77234EBADD}|Polymorphism,Abstraction, Interface, Namespace, DLL\\Polymorphism,Abstraction, Interface, Namespace, DLL.csproj|f:\\c#introduction\\polymorphism,abstraction, interface, namespace, dll\\polymorphism,abstraction, interface, namespace, dll\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C962D25-5B4E-4C48-902B-BC77234EBADD}|Polymorphism,Abstraction, Interface, Namespace, DLL\\Polymorphism,Abstraction, Interface, Namespace, DLL.csproj|solutionrelative:polymorphism,abstraction, interface, namespace, dll\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C962D25-5B4E-4C48-902B-BC77234EBADD}|Polymorphism,Abstraction, Interface, Namespace, DLL\\Polymorphism,Abstraction, Interface, Namespace, DLL.csproj|f:\\c#introduction\\polymorphism,abstraction, interface, namespace, dll\\polymorphism,abstraction, interface, namespace, dll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C962D25-5B4E-4C48-902B-BC77234EBADD}|Polymorphism,Abstraction, Interface, Namespace, DLL\\Polymorphism,Abstraction, Interface, Namespace, DLL.csproj|solutionrelative:polymorphism,abstraction, interface, namespace, dll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cs",
+              "DocumentMoniker": "F:\\C#Introduction\\Polymorphism,Abstraction, Interface, Namespace, DLL\\Polymorphism,Abstraction, Interface, Namespace, DLL\\Test.cs",
+              "RelativeDocumentMoniker": "Polymorphism,Abstraction, Interface, Namespace, DLL\\Test.cs",
+              "ToolTip": "F:\\C#Introduction\\Polymorphism,Abstraction, Interface, Namespace, DLL\\Polymorphism,Abstraction, Interface, Namespace, DLL\\Test.cs",
+              "RelativeToolTip": "Polymorphism,Abstraction, Interface, Namespace, DLL\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T20:06:55.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "F:\\C#Introduction\\Polymorphism,Abstraction, Interface, Namespace, DLL\\Polymorphism,Abstraction, Interface, Namespace, DLL\\Dog.cs",
+              "RelativeDocumentMoniker": "Polymorphism,Abstraction, Interface, Namespace, DLL\\Dog.cs",
+              "ToolTip": "F:\\C#Introduction\\Polymorphism,Abstraction, Interface, Namespace, DLL\\Polymorphism,Abstraction, Interface, Namespace, DLL\\Dog.cs",
+              "RelativeToolTip": "Polymorphism,Abstraction, Interface, Namespace, DLL\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T20:06:53.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "F:\\C#Introduction\\Polymorphism,Abstraction, Interface, Namespace, DLL\\Polymorphism,Abstraction, Interface, Namespace, DLL\\Bird.cs",
+              "RelativeDocumentMoniker": "Polymorphism,Abstraction, Interface, Namespace, DLL\\Bird.cs",
+              "ToolTip": "F:\\C#Introduction\\Polymorphism,Abstraction, Interface, Namespace, DLL\\Polymorphism,Abstraction, Interface, Namespace, DLL\\Bird.cs",
+              "RelativeToolTip": "Polymorphism,Abstraction, Interface, Namespace, DLL\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T20:06:52.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "F:\\C#Introduction\\Polymorphism,Abstraction, Interface, Namespace, DLL\\Polymorphism,Abstraction, Interface, Namespace, DLL\\Animal.cs",
+              "RelativeDocumentMoniker": "Polymorphism,Abstraction, Interface, Namespace, DLL\\Animal.cs",
+              "ToolTip": "F:\\C#Introduction\\Polymorphism,Abstraction, Interface, Namespace, DLL\\Polymorphism,Abstraction, Interface, Namespace, DLL\\Animal.cs",
+              "RelativeToolTip": "Polymorphism,Abstraction, Interface, Namespace, DLL\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T20:06:51.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "F:\\C#Introduction\\Polymorphism,Abstraction, Interface, Namespace, DLL\\Polymorphism,Abstraction, Interface, Namespace, DLL\\Person.cs",
+              "RelativeDocumentMoniker": "Polymorphism,Abstraction, Interface, Namespace, DLL\\Person.cs",
+              "ToolTip": "F:\\C#Introduction\\Polymorphism,Abstraction, Interface, Namespace, DLL\\Polymorphism,Abstraction, Interface, Namespace, DLL\\Person.cs",
+              "RelativeToolTip": "Polymorphism,Abstraction, Interface, Namespace, DLL\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T19:35:18.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C#Introduction\\Polymorphism,Abstraction, Interface, Namespace, DLL\\Polymorphism,Abstraction, Interface, Namespace, DLL\\Program.cs",
+              "RelativeDocumentMoniker": "Polymorphism,Abstraction, Interface, Namespace, DLL\\Program.cs",
+              "ToolTip": "F:\\C#Introduction\\Polymorphism,Abstraction, Interface, Namespace, DLL\\Polymorphism,Abstraction, Interface, Namespace, DLL\\Program.cs",
+              "RelativeToolTip": "Polymorphism,Abstraction, Interface, Namespace, DLL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T17:37:56.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

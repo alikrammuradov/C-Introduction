@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C#Introduction\\Inheritance, Access Modifiers, Encapsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C033BA4B-DB7E-4136-972C-359D791AAC2A}|Inheritance, Access Modifiers, Encapsulation\\Inheritance, Access Modifiers, Encapsulation.csproj|f:\\c#introduction\\inheritance, access modifiers, encapsulation\\inheritance, access modifiers, encapsulation\\factorialcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C033BA4B-DB7E-4136-972C-359D791AAC2A}|Inheritance, Access Modifiers, Encapsulation\\Inheritance, Access Modifiers, Encapsulation.csproj|solutionrelative:inheritance, access modifiers, encapsulation\\factorialcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C033BA4B-DB7E-4136-972C-359D791AAC2A}|Inheritance, Access Modifiers, Encapsulation\\Inheritance, Access Modifiers, Encapsulation.csproj|f:\\c#introduction\\inheritance, access modifiers, encapsulation\\inheritance, access modifiers, encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C033BA4B-DB7E-4136-972C-359D791AAC2A}|Inheritance, Access Modifiers, Encapsulation\\Inheritance, Access Modifiers, Encapsulation.csproj|solutionrelative:inheritance, access modifiers, encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FactorialCalculator.cs",
+              "DocumentMoniker": "F:\\C#Introduction\\Inheritance, Access Modifiers, Encapsulation\\Inheritance, Access Modifiers, Encapsulation\\FactorialCalculator.cs",
+              "RelativeDocumentMoniker": "Inheritance, Access Modifiers, Encapsulation\\FactorialCalculator.cs",
+              "ToolTip": "F:\\C#Introduction\\Inheritance, Access Modifiers, Encapsulation\\Inheritance, Access Modifiers, Encapsulation\\FactorialCalculator.cs",
+              "RelativeToolTip": "Inheritance, Access Modifiers, Encapsulation\\FactorialCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T15:27:06.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C#Introduction\\Inheritance, Access Modifiers, Encapsulation\\Inheritance, Access Modifiers, Encapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance, Access Modifiers, Encapsulation\\Program.cs",
+              "ToolTip": "F:\\C#Introduction\\Inheritance, Access Modifiers, Encapsulation\\Inheritance, Access Modifiers, Encapsulation\\Program.cs",
+              "RelativeToolTip": "Inheritance, Access Modifiers, Encapsulation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T15:18:36.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

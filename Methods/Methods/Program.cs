@@ -125,38 +125,38 @@ class Program
 
 
 
-    ////6) Verilmis n tam ededinin sade ve ya murekkeb oldugunu tapin.
+    6) Verilmis n tam ededinin sade ve ya murekkeb oldugunu tapin.
 
-    //static void Main()
-    //{
-    //    Console.Write("n ədədini daxil et: ");
-    //    int n = Convert.ToInt32(Console.ReadLine());
+    static void Main()
+    {
+        Console.Write("n ədədini daxil et: ");
+        int n = Convert.ToInt32(Console.ReadLine());
 
-    //    SadeveyaMurekkeb(n);
-    //}
+        SadeveyaMurekkeb(n);
+    }
 
-    //static void SadeveyaMurekkeb(int n)
-    //{
-    //    if (n < 2)
-    //    {
-    //        Console.WriteLine(n + " sadə və ya mürəkkəb deyil");
-    //        return;
-    //    }
-    //    else if (n == 2) 
-    //    {
-    //        Console.WriteLine(n + " sadədir"); 
-    //        return;
-    //    }
+    static void SadeveyaMurekkeb(int n)
+    {
+        if (n < 2)
+        {
+            Console.WriteLine(n + " sadə və ya mürəkkəb deyil");
+            return;
+        }
+        else if (n == 2) 
+        {
+            Console.WriteLine(n + " sadədir"); 
+            return;
+        }
 
-    //    for (int i = 2; i < n; i++)
-    //    {
-    //        if (n % i == 0)
-    //        {
-    //            Console.WriteLine(n + " mürəkkəb ədəddir");
-    //            return;
-    //        }
-    //    }
+        for (int i = 2; i < n; i++)
+        {
+            if (n % i == 0)
+            {
+                Console.WriteLine(n + " mürəkkəb ədəddir");
+                return;
+            }
+        }
 
-    //    Console.WriteLine(n + " sadə ədəddir");
-    //}
+        Console.WriteLine(n + " sadə ədəddir");
+    }
 }

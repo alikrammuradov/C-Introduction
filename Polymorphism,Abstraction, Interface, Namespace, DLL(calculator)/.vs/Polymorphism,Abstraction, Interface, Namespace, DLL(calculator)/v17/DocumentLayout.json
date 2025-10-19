@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C#Introduction\\Polymorphism,Abstraction, Interface, Namespace, DLL(calculator)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05A6BAB5-7C2E-4450-8AE7-A276206B9554}|Polymorphism,Abstraction, Interface, Namespace, DLL(calculator)\\Polymorphism,Abstraction, Interface, Namespace, DLL(calculator).csproj|f:\\c#introduction\\polymorphism,abstraction, interface, namespace, dll(calculator)\\polymorphism,abstraction, interface, namespace, dll(calculator)\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A6BAB5-7C2E-4450-8AE7-A276206B9554}|Polymorphism,Abstraction, Interface, Namespace, DLL(calculator)\\Polymorphism,Abstraction, Interface, Namespace, DLL(calculator).csproj|solutionrelative:polymorphism,abstraction, interface, namespace, dll(calculator)\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A6BAB5-7C2E-4450-8AE7-A276206B9554}|Polymorphism,Abstraction, Interface, Namespace, DLL(calculator)\\Polymorphism,Abstraction, Interface, Namespace, DLL(calculator).csproj|f:\\c#introduction\\polymorphism,abstraction, interface, namespace, dll(calculator)\\polymorphism,abstraction, interface, namespace, dll(calculator)\\icalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A6BAB5-7C2E-4450-8AE7-A276206B9554}|Polymorphism,Abstraction, Interface, Namespace, DLL(calculator)\\Polymorphism,Abstraction, Interface, Namespace, DLL(calculator).csproj|solutionrelative:polymorphism,abstraction, interface, namespace, dll(calculator)\\icalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A6BAB5-7C2E-4450-8AE7-A276206B9554}|Polymorphism,Abstraction, Interface, Namespace, DLL(calculator)\\Polymorphism,Abstraction, Interface, Namespace, DLL(calculator).csproj|f:\\c#introduction\\polymorphism,abstraction, interface, namespace, dll(calculator)\\polymorphism,abstraction, interface, namespace, dll(calculator)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A6BAB5-7C2E-4450-8AE7-A276206B9554}|Polymorphism,Abstraction, Interface, Namespace, DLL(calculator)\\Polymorphism,Abstraction, Interface, Namespace, DLL(calculator).csproj|solutionrelative:polymorphism,abstraction, interface, namespace, dll(calculator)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "F:\\C#Introduction\\Polymorphism,Abstraction, Interface, Namespace, DLL(calculator)\\Polymorphism,Abstraction, Interface, Namespace, DLL(calculator)\\Calculation.cs",
+              "RelativeDocumentMoniker": "Polymorphism,Abstraction, Interface, Namespace, DLL(calculator)\\Calculation.cs",
+              "ToolTip": "F:\\C#Introduction\\Polymorphism,Abstraction, Interface, Namespace, DLL(calculator)\\Polymorphism,Abstraction, Interface, Namespace, DLL(calculator)\\Calculation.cs",
+              "RelativeToolTip": "Polymorphism,Abstraction, Interface, Namespace, DLL(calculator)\\Calculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T20:25:25.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Icalculation.cs",
+              "DocumentMoniker": "F:\\C#Introduction\\Polymorphism,Abstraction, Interface, Namespace, DLL(calculator)\\Polymorphism,Abstraction, Interface, Namespace, DLL(calculator)\\Icalculation.cs",
+              "RelativeDocumentMoniker": "Polymorphism,Abstraction, Interface, Namespace, DLL(calculator)\\Icalculation.cs",
+              "ToolTip": "F:\\C#Introduction\\Polymorphism,Abstraction, Interface, Namespace, DLL(calculator)\\Polymorphism,Abstraction, Interface, Namespace, DLL(calculator)\\Icalculation.cs",
+              "RelativeToolTip": "Polymorphism,Abstraction, Interface, Namespace, DLL(calculator)\\Icalculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T20:24:37.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C#Introduction\\Polymorphism,Abstraction, Interface, Namespace, DLL(calculator)\\Polymorphism,Abstraction, Interface, Namespace, DLL(calculator)\\Program.cs",
+              "RelativeDocumentMoniker": "Polymorphism,Abstraction, Interface, Namespace, DLL(calculator)\\Program.cs",
+              "ToolTip": "F:\\C#Introduction\\Polymorphism,Abstraction, Interface, Namespace, DLL(calculator)\\Polymorphism,Abstraction, Interface, Namespace, DLL(calculator)\\Program.cs",
+              "RelativeToolTip": "Polymorphism,Abstraction, Interface, Namespace, DLL(calculator)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T20:23:03.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
