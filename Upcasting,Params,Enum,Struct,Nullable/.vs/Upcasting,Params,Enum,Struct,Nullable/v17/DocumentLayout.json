@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C#Introduction\\Upcasting,Params,Enum,Struct,Nullable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3ED7EC-3783-407A-9F64-CF2136B00FB0}|Upcasting,Params,Enum,Struct,Nullable\\Upcasting,Params,Enum,Struct,Nullable.csproj|f:\\c#introduction\\upcasting,params,enum,struct,nullable\\upcasting,params,enum,struct,nullable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3ED7EC-3783-407A-9F64-CF2136B00FB0}|Upcasting,Params,Enum,Struct,Nullable\\Upcasting,Params,Enum,Struct,Nullable.csproj|solutionrelative:upcasting,params,enum,struct,nullable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3ED7EC-3783-407A-9F64-CF2136B00FB0}|Upcasting,Params,Enum,Struct,Nullable\\Upcasting,Params,Enum,Struct,Nullable.csproj|f:\\c#introduction\\upcasting,params,enum,struct,nullable\\upcasting,params,enum,struct,nullable\\models\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3ED7EC-3783-407A-9F64-CF2136B00FB0}|Upcasting,Params,Enum,Struct,Nullable\\Upcasting,Params,Enum,Struct,Nullable.csproj|solutionrelative:upcasting,params,enum,struct,nullable\\models\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3ED7EC-3783-407A-9F64-CF2136B00FB0}|Upcasting,Params,Enum,Struct,Nullable\\Upcasting,Params,Enum,Struct,Nullable.csproj|f:\\c#introduction\\upcasting,params,enum,struct,nullable\\upcasting,params,enum,struct,nullable\\models\\shark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3ED7EC-3783-407A-9F64-CF2136B00FB0}|Upcasting,Params,Enum,Struct,Nullable\\Upcasting,Params,Enum,Struct,Nullable.csproj|solutionrelative:upcasting,params,enum,struct,nullable\\models\\shark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3ED7EC-3783-407A-9F64-CF2136B00FB0}|Upcasting,Params,Enum,Struct,Nullable\\Upcasting,Params,Enum,Struct,Nullable.csproj|f:\\c#introduction\\upcasting,params,enum,struct,nullable\\upcasting,params,enum,struct,nullable\\models\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3ED7EC-3783-407A-9F64-CF2136B00FB0}|Upcasting,Params,Enum,Struct,Nullable\\Upcasting,Params,Enum,Struct,Nullable.csproj|solutionrelative:upcasting,params,enum,struct,nullable\\models\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3ED7EC-3783-407A-9F64-CF2136B00FB0}|Upcasting,Params,Enum,Struct,Nullable\\Upcasting,Params,Enum,Struct,Nullable.csproj|f:\\c#introduction\\upcasting,params,enum,struct,nullable\\upcasting,params,enum,struct,nullable\\models\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3ED7EC-3783-407A-9F64-CF2136B00FB0}|Upcasting,Params,Enum,Struct,Nullable\\Upcasting,Params,Enum,Struct,Nullable.csproj|solutionrelative:upcasting,params,enum,struct,nullable\\models\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3ED7EC-3783-407A-9F64-CF2136B00FB0}|Upcasting,Params,Enum,Struct,Nullable\\Upcasting,Params,Enum,Struct,Nullable.csproj|f:\\c#introduction\\upcasting,params,enum,struct,nullable\\upcasting,params,enum,struct,nullable\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3ED7EC-3783-407A-9F64-CF2136B00FB0}|Upcasting,Params,Enum,Struct,Nullable\\Upcasting,Params,Enum,Struct,Nullable.csproj|solutionrelative:upcasting,params,enum,struct,nullable\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "F:\\C#Introduction\\Upcasting,Params,Enum,Struct,Nullable\\Upcasting,Params,Enum,Struct,Nullable\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "Upcasting,Params,Enum,Struct,Nullable\\Models\\Animal.cs",
+              "ToolTip": "F:\\C#Introduction\\Upcasting,Params,Enum,Struct,Nullable\\Upcasting,Params,Enum,Struct,Nullable\\Models\\Animal.cs",
+              "RelativeToolTip": "Upcasting,Params,Enum,Struct,Nullable\\Models\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T02:43:15.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "F:\\C#Introduction\\Upcasting,Params,Enum,Struct,Nullable\\Upcasting,Params,Enum,Struct,Nullable\\Models\\Bird.cs",
+              "RelativeDocumentMoniker": "Upcasting,Params,Enum,Struct,Nullable\\Models\\Bird.cs",
+              "ToolTip": "F:\\C#Introduction\\Upcasting,Params,Enum,Struct,Nullable\\Upcasting,Params,Enum,Struct,Nullable\\Models\\Bird.cs",
+              "RelativeToolTip": "Upcasting,Params,Enum,Struct,Nullable\\Models\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T02:42:54.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Eagle.cs",
+              "DocumentMoniker": "F:\\C#Introduction\\Upcasting,Params,Enum,Struct,Nullable\\Upcasting,Params,Enum,Struct,Nullable\\Models\\Eagle.cs",
+              "RelativeDocumentMoniker": "Upcasting,Params,Enum,Struct,Nullable\\Models\\Eagle.cs",
+              "ToolTip": "F:\\C#Introduction\\Upcasting,Params,Enum,Struct,Nullable\\Upcasting,Params,Enum,Struct,Nullable\\Models\\Eagle.cs",
+              "RelativeToolTip": "Upcasting,Params,Enum,Struct,Nullable\\Models\\Eagle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T02:42:48.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fish.cs",
+              "DocumentMoniker": "F:\\C#Introduction\\Upcasting,Params,Enum,Struct,Nullable\\Upcasting,Params,Enum,Struct,Nullable\\Models\\Fish.cs",
+              "RelativeDocumentMoniker": "Upcasting,Params,Enum,Struct,Nullable\\Models\\Fish.cs",
+              "ToolTip": "F:\\C#Introduction\\Upcasting,Params,Enum,Struct,Nullable\\Upcasting,Params,Enum,Struct,Nullable\\Models\\Fish.cs",
+              "RelativeToolTip": "Upcasting,Params,Enum,Struct,Nullable\\Models\\Fish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T02:42:39.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shark.cs",
+              "DocumentMoniker": "F:\\C#Introduction\\Upcasting,Params,Enum,Struct,Nullable\\Upcasting,Params,Enum,Struct,Nullable\\Models\\Shark.cs",
+              "RelativeDocumentMoniker": "Upcasting,Params,Enum,Struct,Nullable\\Models\\Shark.cs",
+              "ToolTip": "F:\\C#Introduction\\Upcasting,Params,Enum,Struct,Nullable\\Upcasting,Params,Enum,Struct,Nullable\\Models\\Shark.cs",
+              "RelativeToolTip": "Upcasting,Params,Enum,Struct,Nullable\\Models\\Shark.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T02:42:02.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C#Introduction\\Upcasting,Params,Enum,Struct,Nullable\\Upcasting,Params,Enum,Struct,Nullable\\Program.cs",
+              "RelativeDocumentMoniker": "Upcasting,Params,Enum,Struct,Nullable\\Program.cs",
+              "ToolTip": "F:\\C#Introduction\\Upcasting,Params,Enum,Struct,Nullable\\Upcasting,Params,Enum,Struct,Nullable\\Program.cs",
+              "RelativeToolTip": "Upcasting,Params,Enum,Struct,Nullable\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAuwLkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T02:41:19.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

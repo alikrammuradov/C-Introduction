@@ -1,0 +1,5 @@
+F:\C#Introduction\Upcasting,Params,Enum,Struct,Nullable\Upcasting,Params,Enum,Struct,Nullable\obj\Debug\net8.0\Upcasting,Params,Enum,Struct,Nullable.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#Introduction\Upcasting,Params,Enum,Struct,Nullable\Upcasting,Params,Enum,Struct,Nullable\obj\Debug\net8.0\Upcasting,Params,Enum,Struct,Nullable.AssemblyInfoInputs.cache
+F:\C#Introduction\Upcasting,Params,Enum,Struct,Nullable\Upcasting,Params,Enum,Struct,Nullable\obj\Debug\net8.0\Upcasting,Params,Enum,Struct,Nullable.AssemblyInfo.cs
+F:\C#Introduction\Upcasting,Params,Enum,Struct,Nullable\Upcasting,Params,Enum,Struct,Nullable\obj\Debug\net8.0\Upcasting,Params,Enum,Struct,Nullable.csproj.CoreCompileInputs.cache
+F:\C#Introduction\Upcasting,Params,Enum,Struct,Nullable\Upcasting,Params,Enum,Struct,Nullable\obj\Debug\net8.0\Upcasting,Params,Enum,Struct,Nullable.sourcelink.json
