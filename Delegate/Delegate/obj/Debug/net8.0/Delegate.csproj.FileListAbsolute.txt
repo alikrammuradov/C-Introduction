@@ -1,0 +1,15 @@
+F:\C#Introduction\Delegate\Delegate\bin\Debug\net8.0\Delegate.exe
+F:\C#Introduction\Delegate\Delegate\bin\Debug\net8.0\Delegate.deps.json
+F:\C#Introduction\Delegate\Delegate\bin\Debug\net8.0\Delegate.runtimeconfig.json
+F:\C#Introduction\Delegate\Delegate\bin\Debug\net8.0\Delegate.dll
+F:\C#Introduction\Delegate\Delegate\bin\Debug\net8.0\Delegate.pdb
+F:\C#Introduction\Delegate\Delegate\obj\Debug\net8.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#Introduction\Delegate\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfoInputs.cache
+F:\C#Introduction\Delegate\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfo.cs
+F:\C#Introduction\Delegate\Delegate\obj\Debug\net8.0\Delegate.csproj.CoreCompileInputs.cache
+F:\C#Introduction\Delegate\Delegate\obj\Debug\net8.0\Delegate.sourcelink.json
+F:\C#Introduction\Delegate\Delegate\obj\Debug\net8.0\Delegate.dll
+F:\C#Introduction\Delegate\Delegate\obj\Debug\net8.0\refint\Delegate.dll
+F:\C#Introduction\Delegate\Delegate\obj\Debug\net8.0\Delegate.pdb
+F:\C#Introduction\Delegate\Delegate\obj\Debug\net8.0\Delegate.genruntimeconfig.cache
+F:\C#Introduction\Delegate\Delegate\obj\Debug\net8.0\ref\Delegate.dll
