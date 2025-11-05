@@ -2,15 +2,26 @@
 {
     class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
-            Console.Write("Müsbət ədəd daxil et: ");
-            int n = Convert.ToInt32(Console.ReadLine());
+            var calculator = new FactorialCalculator();
 
-            FactorialCalculator calc = new FactorialCalculator();
-            long result = calc.Factorial(n);
+            Console.Write("Müsbət tam ədəd daxil edin: ");
+            if (!int.TryParse(Console.ReadLine(), out int n))
+            {
+                Console.WriteLine("Düzgün ədəd daxil edilmədi.");
+                return;
+            }
 
-            Console.WriteLine($"{n}! = {result}");
+            try
+            {
+                BigInteger fact = calculator.Calculate(n);
+                Console.WriteLine($"{n}! = {fact}");
+            }
+            catch (ArgumentException ex)
+            {
+                Console.WriteLine("Xəta: " + ex.Message);
+            }
         }
     }
 }
