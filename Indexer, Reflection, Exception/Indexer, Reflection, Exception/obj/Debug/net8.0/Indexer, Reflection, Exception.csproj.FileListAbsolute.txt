@@ -1,0 +1,15 @@
+F:\C#Introduction\Indexer, Reflection, Exception\Indexer, Reflection, Exception\bin\Debug\net8.0\Indexer, Reflection, Exception.exe
+F:\C#Introduction\Indexer, Reflection, Exception\Indexer, Reflection, Exception\bin\Debug\net8.0\Indexer, Reflection, Exception.deps.json
+F:\C#Introduction\Indexer, Reflection, Exception\Indexer, Reflection, Exception\bin\Debug\net8.0\Indexer, Reflection, Exception.runtimeconfig.json
+F:\C#Introduction\Indexer, Reflection, Exception\Indexer, Reflection, Exception\bin\Debug\net8.0\Indexer, Reflection, Exception.dll
+F:\C#Introduction\Indexer, Reflection, Exception\Indexer, Reflection, Exception\bin\Debug\net8.0\Indexer, Reflection, Exception.pdb
+F:\C#Introduction\Indexer, Reflection, Exception\Indexer, Reflection, Exception\obj\Debug\net8.0\Indexer, Reflection, Exception.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#Introduction\Indexer, Reflection, Exception\Indexer, Reflection, Exception\obj\Debug\net8.0\Indexer, Reflection, Exception.AssemblyInfoInputs.cache
+F:\C#Introduction\Indexer, Reflection, Exception\Indexer, Reflection, Exception\obj\Debug\net8.0\Indexer, Reflection, Exception.AssemblyInfo.cs
+F:\C#Introduction\Indexer, Reflection, Exception\Indexer, Reflection, Exception\obj\Debug\net8.0\Indexer, Reflection, Exception.csproj.CoreCompileInputs.cache
+F:\C#Introduction\Indexer, Reflection, Exception\Indexer, Reflection, Exception\obj\Debug\net8.0\Indexer, Reflection, Exception.sourcelink.json
+F:\C#Introduction\Indexer, Reflection, Exception\Indexer, Reflection, Exception\obj\Debug\net8.0\Indexer, Reflection, Exception.dll
+F:\C#Introduction\Indexer, Reflection, Exception\Indexer, Reflection, Exception\obj\Debug\net8.0\refint\Indexer, Reflection, Exception.dll
+F:\C#Introduction\Indexer, Reflection, Exception\Indexer, Reflection, Exception\obj\Debug\net8.0\Indexer, Reflection, Exception.pdb
+F:\C#Introduction\Indexer, Reflection, Exception\Indexer, Reflection, Exception\obj\Debug\net8.0\Indexer, Reflection, Exception.genruntimeconfig.cache
+F:\C#Introduction\Indexer, Reflection, Exception\Indexer, Reflection, Exception\obj\Debug\net8.0\ref\Indexer, Reflection, Exception.dll

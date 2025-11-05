@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C#Introduction\\Indexer, Reflection, Exception\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEFAA59-9E88-4CDD-892E-E66F91E20501}|Indexer, Reflection, Exception\\Indexer, Reflection, Exception.csproj|f:\\c#introduction\\indexer, reflection, exception\\indexer, reflection, exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEFAA59-9E88-4CDD-892E-E66F91E20501}|Indexer, Reflection, Exception\\Indexer, Reflection, Exception.csproj|solutionrelative:indexer, reflection, exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEFAA59-9E88-4CDD-892E-E66F91E20501}|Indexer, Reflection, Exception\\Indexer, Reflection, Exception.csproj|f:\\c#introduction\\indexer, reflection, exception\\indexer, reflection, exception\\loginmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEFAA59-9E88-4CDD-892E-E66F91E20501}|Indexer, Reflection, Exception\\Indexer, Reflection, Exception.csproj|solutionrelative:indexer, reflection, exception\\loginmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEFAA59-9E88-4CDD-892E-E66F91E20501}|Indexer, Reflection, Exception\\Indexer, Reflection, Exception.csproj|f:\\c#introduction\\indexer, reflection, exception\\indexer, reflection, exception\\loginexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEFAA59-9E88-4CDD-892E-E66F91E20501}|Indexer, Reflection, Exception\\Indexer, Reflection, Exception.csproj|solutionrelative:indexer, reflection, exception\\loginexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEFAA59-9E88-4CDD-892E-E66F91E20501}|Indexer, Reflection, Exception\\Indexer, Reflection, Exception.csproj|f:\\c#introduction\\indexer, reflection, exception\\indexer, reflection, exception\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEFAA59-9E88-4CDD-892E-E66F91E20501}|Indexer, Reflection, Exception\\Indexer, Reflection, Exception.csproj|solutionrelative:indexer, reflection, exception\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginManager.cs",
+              "DocumentMoniker": "F:\\C#Introduction\\Indexer, Reflection, Exception\\Indexer, Reflection, Exception\\LoginManager.cs",
+              "RelativeDocumentMoniker": "Indexer, Reflection, Exception\\LoginManager.cs",
+              "ToolTip": "F:\\C#Introduction\\Indexer, Reflection, Exception\\Indexer, Reflection, Exception\\LoginManager.cs",
+              "RelativeToolTip": "Indexer, Reflection, Exception\\LoginManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:40:42.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\C#Introduction\\Indexer, Reflection, Exception\\Indexer, Reflection, Exception\\User.cs",
+              "RelativeDocumentMoniker": "Indexer, Reflection, Exception\\User.cs",
+              "ToolTip": "F:\\C#Introduction\\Indexer, Reflection, Exception\\Indexer, Reflection, Exception\\User.cs",
+              "RelativeToolTip": "Indexer, Reflection, Exception\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:40:16.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginException.cs",
+              "DocumentMoniker": "F:\\C#Introduction\\Indexer, Reflection, Exception\\Indexer, Reflection, Exception\\LoginException.cs",
+              "RelativeDocumentMoniker": "Indexer, Reflection, Exception\\LoginException.cs",
+              "ToolTip": "F:\\C#Introduction\\Indexer, Reflection, Exception\\Indexer, Reflection, Exception\\LoginException.cs",
+              "RelativeToolTip": "Indexer, Reflection, Exception\\LoginException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:39:47.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C#Introduction\\Indexer, Reflection, Exception\\Indexer, Reflection, Exception\\Program.cs",
+              "RelativeDocumentMoniker": "Indexer, Reflection, Exception\\Program.cs",
+              "ToolTip": "F:\\C#Introduction\\Indexer, Reflection, Exception\\Indexer, Reflection, Exception\\Program.cs",
+              "RelativeToolTip": "Indexer, Reflection, Exception\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:37:50.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
