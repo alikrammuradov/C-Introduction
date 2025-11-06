@@ -1,0 +1,14 @@
+C:\ckodlar\LibraryApp\Service\bin\Debug\Service.dll
+C:\ckodlar\LibraryApp\Service\bin\Debug\Service.pdb
+C:\ckodlar\LibraryApp\Service\bin\Debug\Domain.dll
+C:\ckodlar\LibraryApp\Service\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\ckodlar\LibraryApp\Service\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\ckodlar\LibraryApp\Service\bin\Debug\Microsoft.Analytics.Types.dll
+C:\ckodlar\LibraryApp\Service\bin\Debug\Repository.dll
+C:\ckodlar\LibraryApp\Service\bin\Debug\Domain.pdb
+C:\ckodlar\LibraryApp\Service\bin\Debug\Repository.pdb
+C:\ckodlar\LibraryApp\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\ckodlar\LibraryApp\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\ckodlar\LibraryApp\Service\obj\Debug\Service.csproj.Up2Date
+C:\ckodlar\LibraryApp\Service\obj\Debug\Service.dll
+C:\ckodlar\LibraryApp\Service\obj\Debug\Service.pdb

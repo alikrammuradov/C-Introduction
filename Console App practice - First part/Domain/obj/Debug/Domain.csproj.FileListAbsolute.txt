@@ -1,0 +1,10 @@
+C:\ckodlar\LibraryApp\Domain\bin\Debug\Domain.dll
+C:\ckodlar\LibraryApp\Domain\bin\Debug\Domain.pdb
+C:\ckodlar\LibraryApp\Domain\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\ckodlar\LibraryApp\Domain\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\ckodlar\LibraryApp\Domain\bin\Debug\Microsoft.Analytics.Types.dll
+C:\ckodlar\LibraryApp\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\ckodlar\LibraryApp\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\ckodlar\LibraryApp\Domain\obj\Debug\Domain.csproj.Up2Date
+C:\ckodlar\LibraryApp\Domain\obj\Debug\Domain.dll
+C:\ckodlar\LibraryApp\Domain\obj\Debug\Domain.pdb
