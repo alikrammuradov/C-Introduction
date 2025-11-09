@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ckodlar\\Collect\u0131ons taskalr\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{635BF5FD-9152-437A-8793-00097C3D7B4D}|Collect\u0131ons taskalr\u0131\\Collect\u0131ons taskalr\u0131.csproj|c:\\ckodlar\\collect\u0131ons taskalr\u0131\\collect\u0131ons taskalr\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635BF5FD-9152-437A-8793-00097C3D7B4D}|Collect\u0131ons taskalr\u0131\\Collect\u0131ons taskalr\u0131.csproj|solutionrelative:collect\u0131ons taskalr\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635BF5FD-9152-437A-8793-00097C3D7B4D}|Collect\u0131ons taskalr\u0131\\Collect\u0131ons taskalr\u0131.csproj|c:\\ckodlar\\collect\u0131ons taskalr\u0131\\collect\u0131ons taskalr\u0131\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635BF5FD-9152-437A-8793-00097C3D7B4D}|Collect\u0131ons taskalr\u0131\\Collect\u0131ons taskalr\u0131.csproj|solutionrelative:collect\u0131ons taskalr\u0131\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\ckodlar\\Collect\u0131ons taskalr\u0131\\Collect\u0131ons taskalr\u0131\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Collect\u0131ons taskalr\u0131\\Models\\Person.cs",
+              "ToolTip": "C:\\ckodlar\\Collect\u0131ons taskalr\u0131\\Collect\u0131ons taskalr\u0131\\Models\\Person.cs",
+              "RelativeToolTip": "Collect\u0131ons taskalr\u0131\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T17:19:41.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ckodlar\\Collect\u0131ons taskalr\u0131\\Collect\u0131ons taskalr\u0131\\Program.cs",
+              "RelativeDocumentMoniker": "Collect\u0131ons taskalr\u0131\\Program.cs",
+              "ToolTip": "C:\\ckodlar\\Collect\u0131ons taskalr\u0131\\Collect\u0131ons taskalr\u0131\\Program.cs",
+              "RelativeToolTip": "Collect\u0131ons taskalr\u0131\\Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAYwFMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T16:01:00.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
